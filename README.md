@@ -1,33 +1,22 @@
-# Chandrashekhar Bhagat
+# 👋 Hi, I'm Chandrashekhar Bhagat
 
-**Full-Stack Developer | AI/ML | Generative AI**
-
----
-
-### Contact
-
-- **Phone:** +91-9110192762  
-- **Email:** [chandrashekhar2500@gmail.com](mailto:chandrashekhar2500@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/chandrashekhar-bhagat](https://linkedin.com/in/chandrashekhar-bhagat)  
-- **GitHub:** [github.com/chandrashekhar-25](https://github.com/chandrashekhar-25)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/chandrashekhar-bhagat)](https://linkedin.com/in/chandrashekhar-bhagat)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&link=mailto:chandrashekhar2500@gmail.com)](mailto:chandrashekhar2500@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/chandrashekhar-25)](https://github.com/chandrashekhar-25)
 
 ---
 
-## Summary
+### 🚀 About Me
 
-Full-Stack Developer with 4 years of experience in the MERN stack, AI/ML, and Generative AI. Proficient in building scalable, data-driven applications using React.js, Node.js, Python, and TypeScript, with expertise in LLM-based integrations. Immediate joiner, eager to contribute to innovative AI-driven initiatives.
+I'm a passionate **Full-Stack Developer** with 4 years of experience specializing in the **MERN stack**, **AI/ML**, and **Generative AI**. I thrive on building scalable, data-driven applications and integrating advanced LLM-based solutions. I'm an immediate joiner, eager to contribute to innovative AI-driven initiatives.
 
----
-
-## Education
-
-**Rajasthan Technical University**  
-_B.Tech - Computer Science Engineering_  
-**CGPA:** 8.15 (2018 – 2022)
+- 📍 Based in Jaipur, Rajasthan, India
+- 🎓 B.Tech in Computer Science Engineering from Rajasthan Technical University (CGPA: 8.15)
+- 💡 Always seeking to work on impactful, cutting-edge projects!
 
 ---
 
-## Skills
+### 🛠️ Skills & Tech Stack
 
 **General:** RESTful APIs, Microservices, API Performance, Debugging  
 **Languages:** Python, JavaScript, TypeScript  
@@ -38,50 +27,50 @@ _B.Tech - Computer Science Engineering_
 
 ---
 
-## Experience
+### 💼 Experience
 
-### FutureBridge  
-**Full-Stack Developer (Remote) | September 2023 - Present**
+**FutureBridge** | Full-Stack Developer (Remote)  
+*Sep 2023 – Present*  
+- Developed an AI-powered document intelligence platform (LLMs, Ollama, Weaviate)  
+- Built internal chatbot integrating HRMS, leave management, and email systems  
+- Created agentic AI solutions for automated data analysis and web scraping  
+- Developed digital onboarding portal for global remote employees  
+- Built HRMS Leave & Attendance module, resolved 100+ VAPT issues
 
-- Developed an AI-powered document intelligence platform leveraging LLMs, Ollama, and Weaviate embeddings, improving retrieval accuracy by 40%, reducing query latency by 35%, and boosting decision-making efficiency by 50%.
-- Built an AI-powered internal chatbot integrating HRMS, leave management, and email systems, achieving 4.6/5 user satisfaction.
-- Created agentic AI solutions for automated data analysis and web scraping, reducing manual research time by 70%.
-- Developed a digital onboarding portal reducing onboarding time by 60% for global remote employees.
-- Built the HRMS Leave & Attendance module, cutting third-party costs and resolving 100+ VAPT issues to enhance performance and security.
+**Zentek Infosoft** | Full-Stack Developer  
+*Jan 2023 – Sep 2023 (Jaipur, Rajasthan)*  
+- Developed 'Emploin' recruitment application  
+- Built 'VoterMood' political engagement platform
 
----
-
-### Zentek Infosoft  
-**Full-Stack Developer | January 2023 - September 2023 (Jaipur, Rajasthan)**
-
-- Worked across the full SDLC, from requirement gathering to project delivery.
-- Developed 'Emploin', a recruitment application reducing third-party costs by 60%.
-- Developed 'VoterMood', a political engagement platform improving voter engagement by 45% and campaign efficiency by 50%.
-
----
-
-### Ollosoft Technologies Pvt. Ltd  
-**Software Engineer | February 2022 - January 2023 (Jaipur, Rajasthan)**
-
-- Developed 'Nuron', an AI-driven platform integrating data and knowledge management workflows, reducing decision time by 40% and improving task efficiency by 50%.
+**Ollosoft Technologies Pvt. Ltd** | Software Engineer  
+*Feb 2022 – Jan 2023 (Jaipur, Rajasthan)*  
+- Developed 'Nuron', an AI-driven data and knowledge management platform
 
 ---
 
-## Projects
+### 🌟 Projects
 
-### Security Troops (March 2021 - December 2021)
-
-- Built an application streamlining security personnel hiring, reducing hiring time by 25%.
-- Incorporated real-time reviews and ratings, increasing user trust scores by 15%.
-- **Tech Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite.
-
----
-
-## Recognitions / Certifications
-
-- Resolved the highest number of production issues at FutureBridge (2024–2025).
-- Solved over 250+ coding problems on Leetcode, GFG, and Codeforces.
+**Security Troops**  
+*March 2021 – December 2021*  
+- Streamlined security personnel hiring process  
+- Real-time reviews and ratings to boost trust  
+- **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite
 
 ---
 
-> _Immediate joiner | Eager to contribute to innovative AI-driven initiatives_
+### 🏆 Recognitions & Certifications
+
+- Resolved the highest number of production issues at FutureBridge (2024–2025)
+- Solved 250+ coding problems on Leetcode, GFG, and Codeforces
+
+---
+
+### 📫 Contact Me
+
+- **Email:** [chandrashekhar2500@gmail.com](mailto:chandrashekhar2500@gmail.com)
+- **Phone:** +91-9110192762
+- **LinkedIn:** [linkedin.com/in/chandrashekhar-bhagat](https://linkedin.com/in/chandrashekhar-bhagat)
+
+---
+
+> *"Eager to build smart solutions that drive real-world impact in AI and beyond!"*

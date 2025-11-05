@@ -57,6 +57,14 @@ I'm a passionate **Full-Stack Developer** with 4 years of experience specializin
 - Real-time reviews and ratings to boost trust  
 - **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite
 
+**Vision AI Data Automation**  
+*September 2023 - Present*  
+- Developed a pipeline for automated dataset extraction, multi-label image annotation, and batch export for custom training.  
+- Designed dynamic labeling logic for advanced attributes, interactions, and segmentation using YOLOv8/MediaPipe/OpenCV.  
+- Built a React dashboard to preview, QA, and manage annotated frames and object cards visually.  
+- Integrated with YOLOv8 to train and refine custom models for specialized detection tasks.  
+- **Stack:** Python, YOLOv8, MediaPipe, OpenCV, FastAPI, React, JavaScript, HTML5, CSS3
+
 ---
 
 ### 🏆 Recognitions & Certifications

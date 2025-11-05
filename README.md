@@ -18,8 +18,8 @@ I'm a passionate **Full-Stack Developer** with 4 years of experience specializin
 
 ### 🛠️ Skills & Tech Stack
 
-**AI/ML:** LLMs, RAG, VectorDB, Agentic AI, MCP Servers, Prompting, Embeddings, Fine-Tuning  
-**Frameworks:** LangChain, LangFuse, Hugging Face, OpenAI APIs, Ollama, FastAPI 
+**AI/ML:** LLMs, RAG, VectorDB, Agentic AI, MCP Servers, Prompting, Embeddings, Fine-Tuning
+**Frameworks:** LangChain, LangFuse, Hugging Face, OpenAI APIs, Ollama, FastAPI
 **AI Tools:** Cline, Cursor, GitHub Copilot
 **Full Stack:** Node.js, React.js, FastAPI, Docker, Jenkins, CI/CD, GCP, Git
 **Languages:** Python, JavaScript, TypeScript

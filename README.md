@@ -31,7 +31,7 @@ I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience speciali
 ### 💼 Experience
 
 **FutureBridge** | Full-Stack Developer (Remote)  
-*Sep 2023 – Present*  
+*Sep 2023 – Jan 2026*  
 - Developed an AI-powered document intelligence platform (LLMs, Ollama, Weaviate)  
 - Built an internal chatbot integrating HRMS, leave management, and email systems  
 - Created agentic AI solutions for automated data analysis and web scraping  

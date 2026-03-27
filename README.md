@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with 4 years of experience specializing in the **MERN stack**, **AI/ML**, and **Generative AI**. I thrive on building scalable, data-driven applications and integrating advanced LLM-based solutions. I'm an immediate joiner, eager to contribute to innovative AI-driven initiatives.
+I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience specializing in the **MERN stack**, **AI/ML**, **Generative AI**, and **Agentic AI**. I am an expert in architecting production-grade LLM applications, RAG pipelines, and autonomous AI agents integrated into enterprise workflows.
 
-- 📍 Based in Jaipur, Rajasthan, India
+- 📍 Based in Jaipur, Rajasthan, India.
 - 🎓 B.Tech in Computer Science Engineering from Rajasthan Technical University (CGPA: 8.15)
 - 💡 Always seeking to work on impactful, cutting-edge projects!
 
@@ -18,13 +18,13 @@ I'm a passionate **Full-Stack Developer** with 4 years of experience specializin
 
 ### 🛠️ Skills & Tech Stack
 
-**AI/ML:** LLMs, RAG, VectorDB, Agentic AI, MCP Servers, Prompting, Embeddings, Fine-Tuning  
-**Frameworks:** LangChain, LangFuse, Hugging Face, OpenAI APIs, Ollama, FastAPI  
+**Generative AI:** LLMs (OpenAI, Ollama, Hugging Face), RAG, Embeddings, Vector DB, Fine-Tunings, Prompt Engineering, Voicebot, Chatbot
+**Agentic AI:** Autonomous Agents, Multi-Agent Systems, Tool Calling, Memory Systems, MCP Servers 
+**Frameworks:** LangChain, LangGraph, LangFuse, Ollama, Opik, FastAPI, Airflow 
 **AI Tools:** Cline, Cursor, GitHub Copilot  
-**Full Stack:** Node.js, React.js, FastAPI, Docker, Jenkins, CI/CD, GCP, Git  
+**Full Stack:** React.js, Node.js, REST APIs, Microservices, Docker, CI/CD, GCP, Git
 **Languages:** Python, JavaScript, TypeScript  
 **Databases:** MySQL, MongoDB  
-**General:** RESTful APIs, Microservices, API Performance, Debugging, Version Control
 
 ---
 
@@ -57,6 +57,13 @@ I'm a passionate **Full-Stack Developer** with 4 years of experience specializin
 - Real-time reviews and ratings to boost trust  
 - **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite
 
+**AI Voice Bot - Call Automation**  
+*January 2026 - Present*  
+- Built an AI voice agent system for inbound escalation and outbound callbacks using LiveKit SIP and Twilio.  
+- Automated user data capture, FIFO callback handling, and live call bridging.  
+- Integrated Azure OpenAI, real-time STT/TTS, and ServiceNow ticketing.
+- **Stack:** Python, LiveKit, Twilio, Azure OpenAI, Deepgram, Silero VAD, Microsoft Graph API.
+
 **Vision AI Data Automation**  
 *September 2023 - Present*  
 - Developed a pipeline for automated dataset extraction, multi-label image annotation, and batch export for custom training.  
@@ -77,7 +84,7 @@ I'm a passionate **Full-Stack Developer** with 4 years of experience specializin
 ### 📫 Contact Me
 
 - **Email:** [chandrashekhar2500@gmail.com](mailto:chandrashekhar2500@gmail.com)
-- **Phone:** +91-9110192762
+- **Phone:** +91-6203442836
 - **LinkedIn:** [linkedin.com/in/chandrashekhar-bhagat](https://linkedin.com/in/chandrashekhar-bhagat)
 
 ---

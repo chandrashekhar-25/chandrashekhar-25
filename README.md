@@ -30,22 +30,22 @@ I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience speciali
 
 ### 💼 Experience
 
-**FutureBridge** | Full-Stack Developer 
+**FutureBridge** | Full-Stack Developer  
 *Sep 2023 – Jan 2026 (Remote)*  
-- Developed an AI-powered document intelligence platform (LLMs, Ollama, Weaviate)  
-- Built an internal chatbot integrating HRMS, leave management, and email systems  
-- Created agentic AI solutions for automated data analysis and web scraping  
-- Developed a digital onboarding portal for global remote employees  
-- Built HRMS Leave & Attendance module, resolved 100+ VAPT issues
+- Developed an AI-powered document intelligence platform (LLMs, Ollama, Weaviate).
+- Built an internal chatbot integrating HRMS, leave management, and email systems.
+- Created agentic AI solutions for automated data analysis and web scraping.
+- Developed a digital onboarding portal for global remote employees.
+- Built HRMS Leave & Attendance module, resolved 100+ VAPT issues.
 
 **Zentek Infosoft** | Full-Stack Developer  
 *Jan 2023 – Sep 2023 (Jaipur, Rajasthan)*  
-- Developed 'Emploin' recruitment application  
-- Built 'VoterMood' political engagement platform
+- Developed 'Emploin' recruitment application.
+- Built 'VoterMood' political engagement platform.
 
 **Ollosoft Technologies Pvt. Ltd** | Software Engineer  
 *Feb 2022 – Jan 2023 (Jaipur, Rajasthan)*  
-- Developed 'Nuron', an AI-driven data and knowledge management platform
+- Developed 'Nuron', an AI-driven data and knowledge management platform.
 
 ---
 
@@ -53,24 +53,24 @@ I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience speciali
 
 **AI Voice Bot - Call Automation**  
 *January 2026 - Present*  
-- Built an AI voice agent system for inbound escalation and outbound callbacks using LiveKit SIP and Twilio.  
-- Automated user data capture, FIFO callback handling, and live call bridging.  
+- Built an AI voice agent system for inbound escalation and outbound callbacks using LiveKit SIP and Twilio.
+- Automated user data capture, FIFO callback handling, and live call bridging.
 - Integrated Azure OpenAI, real-time STT/TTS, and ServiceNow ticketing.
 - **Stack:** Python, LiveKit, Twilio, Azure OpenAI, Deepgram, Silero VAD, Microsoft Graph API.
 
 **Vision AI Data Automation**  
 *September 2023 - Present*  
-- Developed a pipeline for automated dataset extraction, multi-label image annotation, and batch export for custom training.  
-- Designed dynamic labeling logic for advanced attributes, interactions, and segmentation using YOLOv8/MediaPipe/OpenCV.  
-- Built a React dashboard to preview, QA, and manage annotated frames and object cards visually.  
-- Integrated with YOLOv8 to train and refine custom models for specialized detection tasks.  
-- **Stack:** Python, YOLOv8, MediaPipe, OpenCV, FastAPI, React, JavaScript, HTML5, CSS3
+- Developed a pipeline for automated dataset extraction, multi-label image annotation, and batch export for custom training.
+- Designed dynamic labeling logic for advanced attributes, interactions, and segmentation using YOLOv8/MediaPipe/OpenCV.
+- Built a React dashboard to preview, QA, and manage annotated frames and object cards visually.
+- Integrated with YOLOv8 to train and refine custom models for specialized detection tasks.
+- **Stack:** Python, YOLOv8, MediaPipe, OpenCV, FastAPI, React, JavaScript, HTML5, CSS3.
   
 **Security Troops**  
 *March 2021 – December 2021*  
-- Streamlined security personnel hiring process  
-- Real-time reviews and ratings to boost trust  
-- **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite
+- Streamlined security personnel hiring process.
+- Real-time reviews and ratings to boost trust.
+- **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite.
 
 ---
 

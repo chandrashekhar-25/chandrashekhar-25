@@ -11,20 +11,20 @@
 I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience specializing in the **MERN stack**, **AI/ML**, **Generative AI**, and **Agentic AI**. I am an expert in architecting production-grade LLM applications, RAG pipelines, and autonomous AI agents integrated into enterprise workflows.
 
 - 📍 Based in Jaipur, Rajasthan, India.
-- 🎓 B.Tech in Computer Science Engineering from Rajasthan Technical University (CGPA: 8.15)
+- 🎓 B.Tech in Computer Science Engineering from Rajasthan Technical University (CGPA: 8.15).
 - 💡 Always seeking to work on impactful, cutting-edge projects!
 
 ---
 
 ### 🛠️ Skills & Tech Stack
 
-**Generative AI:** LLMs (OpenAI, Ollama, Hugging Face), RAG, Embeddings, Vector DB, Fine-Tunings, Prompt Engineering, Voicebot, Chatbot
-**Agentic AI:** Autonomous Agents, Multi-Agent Systems, Tool Calling, Memory Systems, MCP Servers 
-**Frameworks:** LangChain, LangGraph, LangFuse, Ollama, Opik, FastAPI, Airflow 
-**AI Tools:** Cline, Cursor, GitHub Copilot  
-**Full Stack:** React.js, Node.js, REST APIs, Microservices, Docker, CI/CD, GCP, Git
-**Languages:** Python, JavaScript, TypeScript  
-**Databases:** MySQL, MongoDB  
+- **Generative AI:** LLMs (OpenAI, Ollama, Hugging Face), RAG, Embeddings, Vector DB, Fine-Tunings, Prompt Engineering, Voicebot, Chatbot
+- **Agentic AI:** Autonomous Agents, Multi-Agent Systems, Tool Calling, Memory Systems, MCP Servers
+- **Frameworks:** LangChain, LangGraph, LangFuse, Ollama, Opik, FastAPI, Airflow
+- **AI Tools:** Cline, Cursor, GitHub Copilot
+- **Full Stack:** React.js, Node.js, REST APIs, Microservices, Docker, CI/CD, GCP, Git
+- **Languages:** Python, JavaScript, TypeScript
+- **Databases:** MySQL, MongoDB
 
 ---
 
@@ -33,9 +33,9 @@ I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience speciali
 **FutureBridge** | Full-Stack Developer (Remote)  
 *Sep 2023 – Present*  
 - Developed an AI-powered document intelligence platform (LLMs, Ollama, Weaviate)  
-- Built internal chatbot integrating HRMS, leave management, and email systems  
+- Built an internal chatbot integrating HRMS, leave management, and email systems  
 - Created agentic AI solutions for automated data analysis and web scraping  
-- Developed digital onboarding portal for global remote employees  
+- Developed a digital onboarding portal for global remote employees  
 - Built HRMS Leave & Attendance module, resolved 100+ VAPT issues
 
 **Zentek Infosoft** | Full-Stack Developer  
@@ -51,12 +51,6 @@ I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience speciali
 
 ### 🌟 Projects
 
-**Security Troops**  
-*March 2021 – December 2021*  
-- Streamlined security personnel hiring process  
-- Real-time reviews and ratings to boost trust  
-- **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite
-
 **AI Voice Bot - Call Automation**  
 *January 2026 - Present*  
 - Built an AI voice agent system for inbound escalation and outbound callbacks using LiveKit SIP and Twilio.  
@@ -71,6 +65,12 @@ I'm a passionate **Full-Stack AI Engineer** with 4+ years of experience speciali
 - Built a React dashboard to preview, QA, and manage annotated frames and object cards visually.  
 - Integrated with YOLOv8 to train and refine custom models for specialized detection tasks.  
 - **Stack:** Python, YOLOv8, MediaPipe, OpenCV, FastAPI, React, JavaScript, HTML5, CSS3
+  
+**Security Troops**  
+*March 2021 – December 2021*  
+- Streamlined security personnel hiring process  
+- Real-time reviews and ratings to boost trust  
+- **Stack:** JavaScript, Angular v14, HTML5, CSS, Python, Django, REST, SQLite
 
 ---
 
